@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|c:\\users\\user\\onedrive\\desktop\\weather app\\weather\\weather\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\weather\\restservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\restservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\weather\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\weather\\weather.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\weather.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\weather\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\weather\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\weather\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\weather\\fahrenheittocelciusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\fahrenheittocelciusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\weather\\longtodatetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\longtodatetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\weather\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB19BDA-DA24-459F-9F5E-79A22223B250}|Weather\\Weather.csproj|solutionrelative:weather\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\Weather.csproj",
+              "RelativeDocumentMoniker": "Weather\\Weather.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\Weather.csproj",
+              "RelativeToolTip": "Weather\\Weather.csproj",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T12:14:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Weather\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\MauiProgram.cs",
+              "RelativeToolTip": "Weather\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:20:04.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Weather\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\WeatherData.cs",
+              "RelativeToolTip": "Weather\\WeatherData.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAwwGUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:12:26.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\RestService.cs",
+              "RelativeDocumentMoniker": "Weather\\RestService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\RestService.cs",
+              "RelativeToolTip": "Weather\\RestService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:11:38.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Weather\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\MainPage.xaml.cs",
+              "RelativeToolTip": "Weather\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:10:31.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Weather\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\MainPage.xaml",
+              "RelativeToolTip": "Weather\\MainPage.xaml",
+              "ViewState": "AQIAAMQAAAAAAAAAAAD4vxABAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T10:09:07.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LongToDateTimeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\LongToDateTimeConverter.cs",
+              "RelativeDocumentMoniker": "Weather\\LongToDateTimeConverter.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\LongToDateTimeConverter.cs",
+              "RelativeToolTip": "Weather\\LongToDateTimeConverter.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:08:25.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FahrenheitToCelciusConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\FahrenheitToCelciusConverter.cs",
+              "RelativeDocumentMoniker": "Weather\\FahrenheitToCelciusConverter.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\FahrenheitToCelciusConverter.cs",
+              "RelativeToolTip": "Weather\\FahrenheitToCelciusConverter.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:07:18.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\Constants.cs",
+              "RelativeDocumentMoniker": "Weather\\Constants.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\Constants.cs",
+              "RelativeToolTip": "Weather\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:06:31.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Weather\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Weather App\\Weather\\Weather\\AppShell.xaml",
+              "RelativeToolTip": "Weather\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T10:04:49.78Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 375,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
